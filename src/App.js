@@ -8,7 +8,12 @@ const emojiDictionary = {
   "🥡": "takeout box",
   "❤️": "love",
   "🎃": "halloween",
-  "💀": "skull"
+  "💀": "skull",
+  "🎃": "halloween",
+  "🌟": "star",
+  "🕯️": "candle",
+  "💡": "bulb",
+  "🤲": "palms up"
 };
 
 const emojis = Object.keys(emojiDictionary);
